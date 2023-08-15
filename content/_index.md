@@ -115,7 +115,7 @@ sections:
           text: Go to EBD ➡️
           url: http://www.eyeseeworld.com/ebd/
       - title: 👋 Do you know **SBD**?
-        content: It's our Sepsis Biomarker Databse
+        content: It's our Sepsis Biomarker Database
         align: center
         background:
           image:
