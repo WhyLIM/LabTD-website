@@ -1,41 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Min Li
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Min
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: BSc in Bioinformatics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Soochow University
+    url: http://eng.suda.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Network Analysis, Molecular Docking, scRNA-seq data Analysis and Tool Development.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Network Analysis
+  - Molecular Docking
+  - scRNA-seq Analysis
+  - Tool Development
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Data Engineer
+      institution: Guangdong Provincial People's Hospital (GDPH)
+      year: 2023
+    - course: BSc in Bioinformatics
+      institution: Soochow University
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:mli.bio@outlook.com'
+  - icon: researchgate
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Min-Li-331
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/WhyLIM
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +67,8 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Min Li (李旻) received a Bachelor of Science degree from [Soochow University](http://eng.suda.edu.cn/), majoring in bioinformatics, under the tutelage of Professor [**Guang Hu**](https://www.researchgate.net/profile/Guang-Hu-3), and is currently working as a data engineer in the team of Dr. [**Xueli Zhang**](https://www.researchgate.net/profile/Xueli-Zhang), PI of [Guangdong Provincial People's Hospital (GDPH)](https://www.gdghospital.org.cn/en/). 
+{style="text-align: justify;"}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His research interests are mainly in the fields of life sciences & computer science, focusing on data analysis and exploration at the biomolecular level.
+{style="text-align: justify;"}
