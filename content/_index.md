@@ -166,14 +166,14 @@ sections:
     #     {{% callout note %}}
     #     Quickly discover relevant content by [filtering publications](./publication/).
     #     {{% /callout %}}
-      count: 1
+      count: 10
       filters:
         folders:
           - publication
         featured_only: false
     design:
       columns: '1'
-      view: card
+      view: citation
 
   - block: people
     id: people
