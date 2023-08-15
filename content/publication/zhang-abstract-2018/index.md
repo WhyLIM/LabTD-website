@@ -1,0 +1,13 @@
+---
+title: "Abstract 1320: An integrative and interactive colorectal cancer biomarker database"
+date: 2018-07-01
+publishDate: 2023-08-15T14:31:24.206707Z
+authors: [admin, "Xiao-Feng Sun", "Yang Cao", "Benchen Ye", "Qiliang Peng", "Xingyun Liu", "Bairong Shen", "Hong Zhang"]
+publication_types: ["2"]
+abstract: "Abstract We created a colorectal cancer (CRC) biomarker database (CBD) with credible content as a powerful and time-saving tool to provide better and accurate information concerning CRC biomarkers. CRC biomarker database (http://sysbio.suda.edu.cn/CBD/) was established based on 870 identified CRC biomarkers and their relevant information from 1115 original articles in PubMed published from 1986 to 2017. In this version of the CBD, CRC biomarker data was collected, sorted, displayed, and analysed. The CBD with the credible contents as a powerful and time-saving tool can provide more comprehensive and accurate information for further CRC biomarker researches. The CBD was constructed under MySQL server. HEML, PHP and JavaScript languages have been used to implement the web interface. The Apache was selected as HTTP server. All of these web operations were implemented under the Windows system. The CBD was concluded the multiple individual biomarker information and categorised into the biological category, source and application of biomarkers; the experiment methods, results, authors and publication resources; the research region, the patient's age, gender, race, the number of tumours, tumour location, and stage. The key words for searching in PubMed are: (((biomarker[Title/Abstract] OR marker[Title/Abstract]) OR indicator[Title/Abstract]) OR predictor[Title/Abstract]) AND ((colorectal cancer[Title/Abstract] OR rectal cancer[Title/Abstract]) OR bowel cancer[Title/Abstract]). The CBD can provide a professional platform to researchers who are interested in CRC research to communicate, exchange their research ideas and further design high quality research in CRC. They can submit their new findings to our database via th submission page, and communicate with us in the CBD. Citation Format: Xueli Zhang, Xiao-Feng Sun, Yang Cao, Benchen Ye, Qiliang Peng, Xingyun Liu, Bairong Shen, Hong Zhang. An integrative and interactive colorectal cancer biomarker database [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2018; 2018 Apr 14-18; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2018;78(13 Suppl):Abstract nr 1320."
+featured: false
+publication: "*Cancer Research*"
+url_pdf: "https://aacrjournals.org/cancerres/article/78/13_Supplement/1320/625603/Abstract-1320-An-integrative-and-interactive"
+doi: "10.1158/1538-7445.AM2018-1320"
+---
+

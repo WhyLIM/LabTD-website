@@ -1,11 +1,13 @@
 ---
 title: "Associations of ophthalmic and systemic conditions with incident dementia in the UK Biobank"
-date: 2023-01-01
-publishDate: 2023-08-15T13:04:15.966198Z
+date: 2023-02-01
+publishDate: 2023-08-15T14:31:24.137792Z
 authors: ["Xianwen Shang", "Zhuoting Zhu", "Yu Huang", admin, "Wei Wang", "Danli Shi", "Yu Jiang", "Xiaohong Yang", "Mingguang He"]
 publication_types: ["2"]
-abstract: ""
+abstract: "textlessh3textgreaterAimstextless/h3textgreater textlessptextgreaterTo examine independent and interactive associations of ophthalmic and systemic conditions with incident dementia.textless/ptextgreatertextlessh3textgreaterMethodstextless/h3textgreater textlessptextgreaterOur analysis included 12 364 adults aged 55–73 years from the UK Biobank cohort. Participants were assessed between 2006 and 2010 at baseline and were followed up until the early of 2021. Incident dementia was ascertained using hospital inpatient, death records and self-reported data.textless/ptextgreatertextlessh3textgreaterResultstextless/h3textgreater textlessptextgreaterOver 1 263 513 person-years of follow-up, 2304 cases of incident dementia were documented. The multivariable-adjusted HRs (95% CI) for dementia associated with age-related macular degeneration (AMD), cataract, diabetes-related eye disease (DRED) and glaucoma at baseline were 1.26 (1.05 to 1.52), 1.11 (1.00 to 1.24), 1.61 (1.30 to 2.00) and (1.07 (0.92 to 1.25), respectively. Diabetes, heart disease, stroke and depression at baseline were all associated with an increased risk of dementia. Of the combination of AMD and a systemic condition, AMD-diabetes was associated with the highest risk for incident dementia (HR (95% CI): 2.73 (1.79 to 4.17)). Individuals with cataract and a systemic condition were 1.19–2.29 times more likely to develop dementia compared with those without cataract and systemic conditions. The corresponding number for DRED and a systemic condition was 1.50–3.24. Diabetes, hypertension, heart disease, depression and stroke newly identified during follow-up mediated the association between cataract and incident dementia as well as the association between DRED and incident dementia.textless/ptextgreatertextlessh3textgreaterConclusionstextless/h3textgreater textlessptextgreaterAMD, cataract and DRED but not glaucoma are associated with an increased risk of dementia. Individuals with both ophthalmic and systemic conditions are at higher risk of dementia compared with those with an ophthalmic or systemic condition only.textless/ptextgreater"
 featured: false
 publication: "*British Journal of Ophthalmology*"
+url_pdf: "https://bjo.bmj.com/content/107/2/275"
+doi: "10.1136/bjophthalmol-2021-319508"
 ---
 

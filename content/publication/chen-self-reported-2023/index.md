@@ -1,11 +1,13 @@
 ---
 title: "Self-reported cataract surgery and 10-year all-cause and cause-specific mortality: findings from the National Health and Nutrition Examination Survey"
-date: 2023-01-01
-publishDate: 2023-08-15T13:04:15.997188Z
-authors: ["Yifan Chen", "Wei Wang", "Huan Liao", "Danli Shi", "Zachary Tan", "Xianwen Shang", admin, "Yu Huang", "Qingrong Deng", "Honghua Yu"]
+date: 2023-03-01
+publishDate: 2023-08-15T14:31:24.168498Z
+authors: ["Yifan Chen", "Wei Wang", "Huan Liao", "Danli Shi", "Zachary Tan", "Xianwen Shang", admin, "Yu Huang", "Qingrong Deng", "Honghua Yu", "Xiaohong Yang", "Mingguang He", "Zhuoting Zhu"]
 publication_types: ["2"]
-abstract: ""
+abstract: "textlessh3textgreaterPurposetextless/h3textgreater textlessptextgreaterTo investigate the association of self-reported cataract surgery with all-cause and cause-specific mortality using a large-scale population-based sample.textless/ptextgreatertextlessh3textgreaterMethodstextless/h3textgreater textlessptextgreaterData from the 1999–2008 cycles of the National Health and Nutrition Examination Survey were used. A self-reported history of cataract surgery was considered a surrogate for the presence of clinically significant cataract surgery. Mortality data were ascertained from National Death Index records. Hazard ratios (HRs) and 95% confidence intervals (CIs) for survival were estimated using Cox proportional hazards regression models.textless/ptextgreatertextlessh3textgreaterResultstextless/h3textgreater textlessptextgreaterA total of 14 918 participants were included in the analysis. During a median follow-up of 10.8 (Interquartile range, IQR, 8.25–13.7) years, 3966 (19.1%) participants died. Participants with self-reported cataract surgery were more likely to die from all causes and specific causes (vascular disease, cancer, accident, Alzheimer’s disease, respiratory disease, renal disease and others) compared with those without (all Ps &lt;0.05). The association between self-reported cataract surgery and all-cause mortality remained significant after multiple adjustments (HR=1.13; 95% CI 1.01 to 1.26). For cause-specific mortality, multivariable Cox models showed that self-reported cataract surgery predicted a 36% higher risk of vascular-related mortality (HR=1.36; 95% CI 1.01 to 1.82). The association with other specific causes of mortality did not reach statistical significance after multiple adjustments.textless/ptextgreatertextlessh3textgreaterConclusionstextless/h3textgreater textlessptextgreaterThis study found significant associations of self-reported cataract surgery with all-cause and vascular mortalities. Our findings provide potential insights into the pathogenic pathways underlying cataract.textless/ptextgreater"
 featured: false
 publication: "*British Journal of Ophthalmology*"
+url_pdf: "https://bjo.bmj.com/content/107/3/430"
+doi: "10.1136/bjophthalmol-2021-319678"
 ---
 

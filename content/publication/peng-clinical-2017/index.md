@@ -1,11 +1,13 @@
 ---
 title: "The clinical role of microRNA-21 as a promising biomarker in the diagnosis and prognosis of colorectal cancer: a systematic review and meta-analysis"
-date: 2017-01-01
-publishDate: 2023-08-15T13:04:15.953269Z
+date: 2017-03-01
+publishDate: 2023-08-15T14:31:24.114829Z
 authors: ["Qiliang Peng", admin, "Ming Min", "Li Zou", "Peipei Shen", "Yaqun Zhu"]
 publication_types: ["2"]
-abstract: ""
+abstract: "This systematic analysis aimed to investigate the value of microRNA-21 (miR-21) in colorectal cancer for multiple purposes, including diagnosis and prognosis, as well as its predictive power in combination biomarkers. Fifty-seven eligible studies were included in our meta-analysis, including 25 studies for diagnostic meta-analysis and 32 for prognostic meta-analysis. For the diagnostic meta-analysis of miR-21 alone, the overall pooled results for sensitivity, specificity, and area under the curve (AUC) were 0.64 (95% CI: 0.53-0.74), 0.85 (0.79-0.90), and 0.85 (0.81-0.87), respectively. Circulating samples presented corresponding values of 0.72 (0.63-0.79), 0.84 (0.78-0.89), and 0.86 (0.83-0.89), respectively. For the diagnostic meta-analysis of miR-21-related combination biomarkers, the above three parameters were 0.79 (0.69-0.86), 0.79 (0.68-0.87), and 0.86 (0.83-0.89), respectively. Notably, subgroup analysis suggested that miRNA combination markers in circulation exhibited high predictive power, with sensitivity of 0.85 (0.70-0.93), specificity of 0.86 (0.77-0.92), and AUC of 0.92 (0.89-0.94). For the prognostic meta-analysis, patients with higher expression of miR-21 had significant shorter disease-free survival [DFS; pooled hazard ratio (HR): 1.60; 95% CI: 1.20-2.15] and overall survival (OS; 1.54; 1.27-1.86). The combined HR in tissues for DFS and OS were 1.76 (1.31-2.36) and 1.58 (1.30-1.93), respectively. Our comprehensive systematic review revealed that circulating miR-21 may be suitable as a diagnostic biomarker, while tissue miR-21 could be a prognostic marker for colorectal cancer. In addition, miRNA combination biomarkers may provide a new approach for clinical application."
 featured: false
 publication: "*Oncotarget*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5546529/"
+doi: "10.18632/oncotarget.16488"
 ---
 

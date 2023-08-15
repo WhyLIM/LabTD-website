@@ -1,11 +1,12 @@
 ---
 title: "Shared genetic architecture between the two neurodegenerative diseases: Alzheimer’s disease and glaucoma"
 date: 2022-01-01
-publishDate: 2023-08-15T13:04:15.991205Z
-authors: ["Chunwen Zheng", "Shunming Liu", "Xiayin Zhang", "Yunyan Hu", "Xianwen Shang", "Zhuoting Zhu", "Yu Huang", "Guanrong Wu", "Yu Xiao", "Zijing Du"]
+publishDate: 2023-08-15T14:31:24.159522Z
+authors: ["Chunwen Zheng", "Shunming Liu", "Xiayin Zhang", "Yunyan Hu", "Xianwen Shang", "Zhuoting Zhu", "Yu Huang", "Guanrong Wu", "Yu Xiao", "Zijing Du", "Yingying Liang", "Daiyu Chen", "Siwen Zang", "Yijun Hu", "Mingguang He", admin, "Honghua Yu"]
 publication_types: ["2"]
-abstract: ""
+abstract: "BackgroundConsidered as the representatives of neurodegenerative diseases, Alzheimer’s disease (AD) and glaucoma are complex progressive neuropathies affected by both genetic and environmental risk factors and cause irreversible damages. Current research indicates that there are common features between AD and glaucoma in terms of epidemiology and pathophysiology. However, the understandings and explanations of their comorbidity and potential genetic overlaps are still limited and insufficient.MethodGenetic pleiotropy analysis was performed using large genome-wide association studies summary statistics of AD and glaucoma, with an independent cohort of glaucoma for replication. Conditional and conjunctional false discovery rate methods were applied to identify the shared loci. Biological function and network analysis, as well as the expression level analysis were performed to investigate the significance of the shared genes.ResultsA significant positive genetic correlation between AD and glaucoma was identified, indicating that there were significant polygenetic overlaps. Forty-nine shared loci were identified and mapped to 11 shared protein-coding genes. Functional genomic analyses of the shared genes indicate their modulation of critical physiological processes in human cells, including those occurring in the mitochondria, nucleus, and cellular membranes. Most of the shared genes indicated a potential modulation of metabolic processes in human cells and tissues. Furthermore, human protein–protein interaction network analyses revealed that some of the shared genes, especially MTCH2, NDUFS3, and PTPMT1, as well as SPI1 and MYBPC3, may function concordantly. The modulation of their expressions may be related to metabolic dysfunction and pathogenic processes.ConclusionOur study identified a shared genetic architecture between AD and glaucoma, which may explain their shared features in epidemiology and pathophysiology. The potential involvement of these shared genes in molecular and cellular processes reflects the “inter-organ crosstalk” between AD and glaucoma. These results may serve as a genetic basis for the development of innovative and effective therapeutics for AD, glaucoma, and other neurodegenerative diseases."
 featured: false
-publication: "*Frontiers in aging neuroscience*"
+publication: "*Frontiers in Aging Neuroscience*"
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fnagi.2022.880576"
 ---
 

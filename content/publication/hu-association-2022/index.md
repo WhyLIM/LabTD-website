@@ -1,11 +1,12 @@
 ---
-title: "Association of Visual, hearing, and dual sensory impairment with Incident Dementia"
+title: "Association of Visual, Hearing, and Dual Sensory Impairment With Incident Dementia"
 date: 2022-01-01
-publishDate: 2023-08-15T13:04:15.999183Z
-authors: ["Wenyi Hu", "Yueye Wang", "Wei Wang", "Xinyu Zhang", "Xianwen Shang", "Huan Liao", "Yifan Chen", "Yu Huang", admin, "Shulin Tang"]
+publishDate: 2023-08-15T14:31:24.165505Z
+authors: ["Wenyi Hu", "Yueye Wang", "Wei Wang", "Xinyu Zhang", "Xianwen Shang", "Huan Liao", "Yifan Chen", "Yu Huang", admin, "Shulin Tang", "Honghua Yu", "Xiaohong Yang", "Mingguang He", "Zhuoting Zhu"]
 publication_types: ["2"]
-abstract: ""
+abstract: "IntroductionThe relationship between sensory impairments and the risk of dementia is inconclusive. We aim to investigate the association of visual impairment (VI), hearing impairment (HI), and dual sensory impairment (DSI) with incident dementia.MethodsThe UK Biobank study recruited more than 500,000 participants aged 40–69 years across the United Kingdom. Participants with available visual acuity (VA) measurements and speech-reception-threshold (SRT) information and free of dementia at the baseline assessment were included in the analysis. VI was defined as VA worse than 0.3 LogMAR units and HI were defined as an SRT of −5.5 dB or over. DSI was defined as the presence of both VI and HI. Incident dementia was identified through linked data to primary care or hospital admission records and death registries. Multivariable Cox proportional hazard regression models were used to examine the association of VI, HI, and DSI with incident dementia.ResultsAmong 113,511 participants (mean age: 56.8 ± 8.09 years, female: 54.4%), a total number of 1,135 (1.00%) cases of incident dementia were identified during a median follow up period of 11.1 years [interquartile range (IQR): 10.9–11.4 years]. The incidence of dementia showed significant differences among the non-sensory impairment (NSI) group, VI-only group, HI-only group, and DSI group (p textless 0.001). After adjusting for demographic, lifestyle, health, and genetic factors, isolated VI (HR = 1.50, 95% CI: 1.06–2.12, p = 0.023), isolated HI (HR = 1.42, 95% CI:1.20–1.69, p textless 0.001), and DSI (HR = 1.82, 95% CI: 1.10–3.00, p = 0.020) were independently associated with higher risks of incident dementia.ConclusionsVisual, hearing, and dual sensory impairments were associated with an increased risk of developing dementia, suggesting that visual and hearing impairments are modifiable risk factors that can be targeted to prevent dementia."
 featured: false
 publication: "*Frontiers in Aging Neuroscience*"
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fnagi.2022.872967"
 ---
 
