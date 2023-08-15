@@ -25,9 +25,10 @@ organizations:
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
 
 interests:
-    - Natural Language Processing & Knowledge Graph
-    - Biomedical Database
-    - Disease Comorbidity
+  - Mechanism of Comorbidity
+  - Network analysis
+  - Biomarker Research
+  - Database
 
 education:
   courses:
@@ -62,8 +63,13 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+  - Researchers
 ---
 
-Yixin Wang earned her bachelor's degree from [Soochow University](http://eng.suda.edu.cn/), guided and mentored by Dr. [**Wenying Yan**](https://www.researchgate.net/profile/Wenying-Yan). She is now advancing her studies with a master's program in bioinformatics at the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans).
+**Research Interests:**
 
-Currently, Yixin is charting her professional journey. Her research passions encompass both health informatics and bioinformatics, with a burgeoning interest in drug discovery.
+Xueli Zhang's primary research focus lies in examining the comorbidity relationships of diseases through the lens of complex networks. He is keenly interested in discovering novel combination markers that can offer insights into these relationships. Over the course of his academic journey, Dr. Zhang has been instrumental in constructing several biomarker databases and predictive models, showcasing his prowess in the field.
+
+**Publications & Achievements:**
+
+He boasts an impressive repertoire of more than 30 SCI publications. Of these, over 10 were featured in prestigious journals, such as Intensive Care Medicine, BMC Medicine, and Bioinformatics, where Dr. Zhang has been recognized as either the first or the corresponding author. His significant contributions to the scientific community have not gone unnoticed, with his work being cited in high-caliber journals, including Nature Reviews Clinical Oncology and Nature Reviews Gastroenterology & Hepatology.

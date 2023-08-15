@@ -1,41 +1,42 @@
 ---
 # Display name
-title: Yixin Wang
+title: Ye'Anqi Jin
 
 # Full name (for SEO)
-first_name: Yixin
-last_name: Wang
+first_name: Ye'Anqi
+last_name: Jin
 
 # Username (this should match the folder name)
 authors:
-  - 王怡欣
+  - 金叶安琪
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BSc in Bioinformatics, Grad Student
+role: BMed in Clinical Medicine?, Grad Student
 
 # Organizations/Affiliations
 organizations:
-  - name: The Chinese University of Hong Kong, Shenzhen
-    url: 'https://www.cuhk.edu.cn/zh-hans'
+  - name: South China University of Technology
+    url: 'https://www.scut.edu.cn/new/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
 
 interests:
-    - Natural Language Processing & Knowledge Graph
-    - Biomedical Database
-    - Disease Comorbidity
+  - Mechanism of Comorbidity
+  - Network analysis
+  - Biomarker Research
+  - Database
 
 education:
   courses:
-    - course: MSc in Bioinformatics Candidate
-      institution: The Chinese University of Hong Kong, Shenzhen
+    - course: MCM in Clinical Medicine Candidate?
+      institution: South China University of Technology
       year: Expected 2025
-    - course: BSc in Bioinformatics
-      institution: Soochow University
+    - course: BMed in Clinical Medicine?
+      institution: '?'
       year: 2022
 
 # Social/Academic Networking
@@ -62,8 +63,13 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+  - Researchers
 ---
 
-Yixin Wang earned her bachelor's degree from [Soochow University](http://eng.suda.edu.cn/), guided and mentored by Dr. [**Wenying Yan**](https://www.researchgate.net/profile/Wenying-Yan). She is now advancing her studies with a master's program in bioinformatics at the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans).
+**Research Interests:**
 
-Currently, Yixin is charting her professional journey. Her research passions encompass both health informatics and bioinformatics, with a burgeoning interest in drug discovery.
+Xueli Zhang's primary research focus lies in examining the comorbidity relationships of diseases through the lens of complex networks. He is keenly interested in discovering novel combination markers that can offer insights into these relationships. Over the course of his academic journey, Dr. Zhang has been instrumental in constructing several biomarker databases and predictive models, showcasing his prowess in the field.
+
+**Publications & Achievements:**
+
+He boasts an impressive repertoire of more than 30 SCI publications. Of these, over 10 were featured in prestigious journals, such as Intensive Care Medicine, BMC Medicine, and Bioinformatics, where Dr. Zhang has been recognized as either the first or the corresponding author. His significant contributions to the scientific community have not gone unnoticed, with his work being cited in high-caliber journals, including Nature Reviews Clinical Oncology and Nature Reviews Gastroenterology & Hepatology.
