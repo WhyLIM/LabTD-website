@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        🧫Lab TD
+        🧫 Lab TD
     #   image:
     #     filename: science.png
       text: |
@@ -99,7 +99,7 @@ sections:
           icon_pack: fas
           text: Try CBD2 ➡️
           url: http://www.eyeseeworld.com/cbd/
-      - title: Take a look at **EBD** ☕️
+      - title: Take a look at **EBD** 👁️
         content: EBD is an Eye Biomarker Database
         align: center
         background:
