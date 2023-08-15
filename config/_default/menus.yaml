@@ -20,5 +20,5 @@ main:
     url: '#people'
     weight: 40
   - name: Contact
-    url: contact
-    weight: 60
+    url: '#contact'
+    weight: 50

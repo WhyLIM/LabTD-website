@@ -22,12 +22,12 @@ organizations:
     url: 'https://www.cuhk.edu.cn/zh-hans'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
+bio: My interests are centered around the fields of health informatics and bioinformatics, where I have a strong passion for research. Additionally, I am increasingly drawn to the fascinating realm of drug discovery as I chart my professional journey.
 
 interests:
-    - Natural Language Processing & Knowledge Graph
-    - Biomedical Database
-    - Disease Comorbidity
+  - Natural Language Processing & Knowledge Graph
+  - Biomedical Database
+  - Disease Comorbidity
 
 education:
   courses:

@@ -80,6 +80,63 @@ sections:
       view: 5
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+
+  - block: slider
+    content:
+      slides:
+      - title: 🆕 Welcome to the **CBD2**
+        content: V2 of the Colorectal Cancer Biomarker Database
+        align: center
+        background:
+          image:
+            filename: img/homepage-slide/cbd.png
+            filters:
+              brightness: 0.5
+          position: right
+          color: '#666'
+        link:
+          icon: database
+          icon_pack: fas
+          text: Try CBD2 ➡️
+          url: http://www.eyeseeworld.com/cbd/
+      - title: Take a look at **EBD** ☕️
+        content: EBD is an Eye Biomarker Database
+        align: center
+        background:
+          image:
+            filename: img/homepage-slide/ebd.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#555'
+        link:
+          icon: database
+          icon_pack: fas
+          text: Go to EBD ➡️
+          url: http://www.eyeseeworld.com/ebd/
+      - title: 👋 Do you know **SBD**?
+        content: It's our Sepsis Biomarker Databse
+        align: center
+        background:
+          image:
+            filename: img/homepage-slide/sbd.png
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: database
+          icon_pack: fas
+          text: Learn about SBD ➡️
+          url: http://www.sysbio.org.cn/sbd/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 3000
   
   - block: collection
     id: news
@@ -143,32 +200,64 @@ sections:
       # Show user's organizations/affiliations?
       show_organizations: true
 
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+#   - block: markdown
+#     content:
+#       title:
+#       subtitle: ''
+#       text:
+#     design:
+#       columns: '1'
+#       background:
+#         image: 
+#           filename: coders.jpg
+#           filters:
+#             brightness: 1
+#           parallax: false
+#           position: center
+#           size: cover
+#           text_color_light: true
+#       spacing:
+#         padding: ['20px', '0', '20px', '0']
+#       css_class: fullscreen
   
-  - block: markdown
+#   - block: markdown
+#     content:
+#       title:
+#       subtitle:
+#       text: |
+#         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+#     design:
+#       columns: '1'
+  - block: contact
+    id: contact
     content:
-      title:
+      title: Contact
       subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      text: 
+      email: zhangxueli@gdph.org.cn
+      address:
+        street: No. 106, Zhongshan 2nd Road
+        city: Guangzhou
+        region: Guangdong
+        postcode: '510000'
+        country: China
+        country_code: CN
+      coordinates:
+        latitude: '23.125156'
+        longitude: '113.287276'
+    #   directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday to Friday, 8:30 to 17:30'
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
-      columns: '1'
+      columns: '2'
 ---
