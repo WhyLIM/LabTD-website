@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Xiaohe Bai
+title: Shunming Liu
 
 # Full name (for SEO)
-first_name: Xiaohe
-last_name: Bai
+first_name: Shunming
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - 白晓禾
+  - Shunming-Liu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student in Mathematics
+role: MF? in ?, Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: University of California San Diego
-    url: 'https://ucsd.edu/'
+  - name: Guangdong Provincial People's Hospital
+    url: 'https://www.gdghospital.org.cn/en/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
@@ -31,9 +31,12 @@ interests:
 
 education:
   courses:
-    - course: BSc in Mathematics Candidate
-      institution: University of California San Diego
-      year: Expected 2025
+    - course: MF? in ?
+      institution: South China University of Technology
+      year: '?'
+    - course: BSc? in ?
+      institution: xxx University
+      year: '?'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'x4bai@ucsd.edu'
+    link: 'liu-m125@163.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Researchers
 ---
 
 xxx

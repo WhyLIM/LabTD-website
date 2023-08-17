@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Shunming Liu
+title: Lingcong Kong
 
 # Full name (for SEO)
-first_name: Shunming
-last_name: Liu
+first_name: Lingcong
+last_name: Kong
 
 # Username (this should match the folder name)
 authors:
-  - 刘舜铭
+  - Lingcong-Kong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MF? in ?, Researcher
+role: MSc in Biomedical Engineering, Grad Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Guangdong Provincial People's Hospital
-    url: 'https://www.gdghospital.org.cn/en/'
+  - name: South China University of Technology
+    url: 'https://www.scut.edu.cn/new/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
@@ -31,10 +31,13 @@ interests:
 
 education:
   courses:
-    - course: MF? in ?
+    - course: PhD in ? Candidate
+      institution: xxx University
+      year: Expected 2027
+    - course: MSc in Bioinformatics Candidate
       institution: South China University of Technology
-      year: '?'
-    - course: BSc? in ?
+      year: 2023
+    - course: BSc in ?
       institution: xxx University
       year: '?'
 
@@ -45,7 +48,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'liu-m125@163.com'
+    link: 'mckonglingcong@mail.scut.edu.cn'
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Lingcong-Kong-2
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Grad Students
 ---
 
 xxx

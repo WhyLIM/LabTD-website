@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Shuo Ma
+title: Ye'Anqi Jin
 
 # Full name (for SEO)
-first_name: Shuo
-last_name: Ma
+first_name: Ye'Anqi
+last_name: Jin
 
 # Username (this should match the folder name)
 authors:
-  - 麻硕
+  - Ye'Anqi-Jin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MSc in ?
+role: BMed in Clinical Medicine?, Grad Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Johnson & Johnson
-    url: 'https://www.jnj.com/'
+  - name: South China University of Technology
+    url: 'https://www.scut.edu.cn/new/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
@@ -31,12 +31,12 @@ interests:
 
 education:
   courses:
-    - course: MSc in ?
-      institution: Guangzhou Medical University
-      year: 2023
-    - course: BSc in ?
-      institution: xxx University
-      year: '?'
+    - course: MCM in Clinical Medicine Candidate?
+      institution: South China University of Technology
+      year: Expected 2025
+    - course: BMed in Clinical Medicine?
+      institution: '?'
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '2020219237@stu.gzhmu.edu.cn'
+    link: 'yxwang023@163.com'
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Yeanqi-Jin
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Visitors
+  - Grad Students
 ---
 
 xxx

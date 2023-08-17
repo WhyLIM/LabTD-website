@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Rui Feng
+title: Xiaohe Bai
 
 # Full name (for SEO)
-first_name: Rui
-last_name: Feng
+first_name: Xiaohe
+last_name: Bai
 
 # Username (this should match the folder name)
 authors:
-  - 冯蕊
+  - Xiaohe-Bai
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Medical Doctor
+role: Undergraduate Student in Mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: The Third Affiliated Hospital of Xi'an Medical University
-    url: 'http://www.xy3fy.com/'
+  - name: University of California San Diego
+    url: 'https://ucsd.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
@@ -31,12 +31,9 @@ interests:
 
 education:
   courses:
-    - course: Medical Doctor
-      institution: The Third Affiliated Hospital of Xi'an Medical University
-      year: 2004-current
-    - course: BMed in Clinical Medicine?
-      institution: Southeast University
-      year: 2004
+    - course: BSc in Mathematics Candidate
+      institution: University of California San Diego
+      year: Expected 2025
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: 'x4bai@ucsd.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
