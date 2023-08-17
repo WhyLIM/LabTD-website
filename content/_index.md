@@ -162,15 +162,15 @@ sections:
     id: publications
     content:
       title: Publications
-    #   text: |-
-    #     {{% callout note %}}
-    #     Quickly discover relevant content by [filtering publications](./publication/).
-    #     {{% /callout %}}
+      text: |-
+        {{% callout note %}}
+        SEE ALL PUBLICATIONS by [***FILTER***](./publication/).
+        {{% /callout %}}
       count: 10
       filters:
         folders:
           - publication
-        featured_only: false
+        featured_only: true
     design:
       columns: '1'
       view: citation
@@ -184,10 +184,7 @@ sections:
       user_groups:
         - Principal Investigators
         - Researchers
-        - Grad Students
-        - Administration
-        - Visitors
-        - Alumni
+        - Students
       sort_by: Params.last_name
       sort_ascending: true
     design:
@@ -228,6 +225,16 @@ sections:
 #         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 #     design:
 #       columns: '1'
+
+#   - block: logos
+#     content:
+#       title: Collaborator
+#       subtitle: Affiliations of authors who collaborate with this laboratory
+#       # Path to the logo images within the `assets/media/` folder
+#       logo_folder: 
+#     design:
+#       columns: '1'
+
   - block: contact
     id: contact
     content:

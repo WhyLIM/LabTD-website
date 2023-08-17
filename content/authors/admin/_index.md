@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: true
 
 # Role/position
-role: PhD of Bioinformatics, Assistant Researcher
+role: PhD of Bioinformatics, Assistant Professor
 
 # Organizations/Affiliations
 organizations:

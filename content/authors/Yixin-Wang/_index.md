@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Students
 ---
 
 Yixin Wang earned her bachelor's degree from [Soochow University](http://eng.suda.edu.cn/), guided and mentored by Dr. [**Wenying Yan**](https://www.researchgate.net/profile/Wenying-Yan). She is now advancing her studies with a master's program in bioinformatics at the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans).
