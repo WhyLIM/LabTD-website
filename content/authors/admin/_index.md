@@ -84,4 +84,10 @@ He boasts an impressive repertoire of more than 30 SCI publications. Of these, o
 3. Reviewer for journals including *iMeta, Database, iScience, Heliyon, NRR, Medicine Advances, BMC series*, and more.
 
 **Research Projects Led:**
-1. National Natural Science Foundation of China, Youth Project, No. 32200545: "Exploring the Comorbidity Mechanism of Alzheimer's Disease and Age-related Macular Degeneration Based on Gene-Environment Interaction Networks." Duration: January 2023 - December 2025. Funded with 300,000 RMB. Ongoing, Principal Investigator.
+
+| Year      | Foundation                                                   |
+| :-------- | :----------------------------------------------------------- |
+| 2023-2025 | **RMB ¥300,000,** National Natural Science Foundation of China<br />*Exploring the comorbidity mechanisms of Alzheimer's disease and age-related macular degeneration based on gene-environment interaction networks.*<br />(Grant number: **32200545**) |
+| 2023-2025 | **SEK 400,000**, Lion Research Foundation, Sweden<br />*Artificial intelligence-based prognostic biomarker discovery for colorectal cancer.*<br/>(Grant number: **DNR LIU-2023-01204**) |
+| 2020-2025 | **RMB ¥500,000**, Guangdong Provincial People's Hospital, China<br/>*Genetic comorbidity analysis and biomarker discovery for age-related eye diseases.*<br />(Grant number: **KJ012020633**) |
+
