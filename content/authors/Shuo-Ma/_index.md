@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc in ?
+role: MD in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -22,21 +22,21 @@ organizations:
     url: 'https://www.jnj.com/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
+bio: My expertise lies in the fields of epidemiology and bioinformatics. With skills in multi-modal data processing and AI algorithms, I utilize these proficiencies to effectively tackle challenges within clinical and public health domains.
 
 interests:
-  - xxxxx
-  - xxxxx
-  - xxxxx
+  - Clinical Epidemiology
+  - Medical Big Data
+  - Clinical Research Methods
 
 education:
   courses:
-    - course: MSc in ?
+    - course: MD in Epidemiology and Health Statistics
       institution: Guangzhou Medical University
-      year: 2023
-    - course: BSc in ?
-      institution: xxx University
-      year: '?'
+      year: 2020-2023
+    - course: BSc in Preventive Medicine 
+      institution: Guangdong Medical University
+      year: 2015-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '2020219237@stu.gzhmu.edu.cn'
+    link: 'mashuo2022@gmail.com'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +61,6 @@ user_groups:
   - Researchers
 ---
 
-xxx
+Shuo Ma (麻硕) holds an undergraduate degree in Preventive Medicine and pursued a master's degree with a focus on **Epidemiology** and **Biostatistics**. With a proficiency in processing multi-modal data and implementing artificial intelligence algorithms, he views AI as a morally expressive technological tool.
+
+Shuo Ma's primary research interests lie in **Epidemiology** and **Bioinformatics**, where he adeptly applies these tools to address both clinical and public health challenges.
