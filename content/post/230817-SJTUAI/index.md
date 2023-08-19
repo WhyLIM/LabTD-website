@@ -3,7 +3,7 @@ title: Min Li participated in the AI for Science Summer School
 date: 2023-08-17
 authors: 
   - Min Li
-summary: SJTU hold the first AI for Science Summer School.
+summary: '[*Shanghai Jiao Tong University (SJTU)*](https://www.sjtu.edu.cn/) hold the first AI for Science Summer School.'
 ---
 
 The first ***AI for Science Summer School*** was sponsored by Shanghai National Center for Applied Mathematics (SJTU Center), and Min Li took part in this Summer School as a corporate employee.
