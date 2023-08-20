@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MD in Epidemiology and Health Statistics
+role: M.M. in Epidemiology and Health Statistics
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: MD in Epidemiology and Health Statistics
+    - course: M.M. in Epidemiology and Health Statistics
       institution: Guangzhou Medical University
       year: 2020-2023
     - course: BSc in Preventive Medicine 
