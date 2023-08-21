@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Medical Doctor
+role: Resident Physician
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: 'https://www.sdfey.com/en/index'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
+bio: My research interests primarily revolve around basic and clinical translational research in radiotherapy for malignant tumors, cancer biomarkers, and medical bioinformatics.
 
 interests:
   - Basic and Clinical Translational Research in Radiotherapy of Malignant Tumors
@@ -67,4 +67,4 @@ user_groups:
   - Researchers
 ---
 
-Qiliang Peng is a resident physician at the Department of Radiotherapy & Oncology, [*The Second Affiliated Hospital of Soochow University*](https://www.sdfey.com/en/index). He is also the young talent of China National Nuclear Corporation, discipline leader of Geriatric Oncology in Jiangsu province and Gusu health young talent in Suzhou. He is currently presiding over a number of projects, including the National Natural Science Foundation of China. His research interests are mainly in the fields of basic and clinical translational research in radiotherapy of malignant tumors, cancer biomarkers and medical bioinformatics. He has published more than 20 SCI articles in these fields.
+Qiliang Peng (彭啟亮) is a resident physician at the Department of Radiotherapy & Oncology, [*The Second Affiliated Hospital of Soochow University*](https://www.sdfey.com/en/index). He is also the young talent of China National Nuclear Corporation, discipline leader of Geriatric Oncology in Jiangsu province and Gusu health young talent in Suzhou. He is currently presiding over a number of projects, including the National Natural Science Foundation of China. His research interests are mainly in the fields of basic and clinical translational research in radiotherapy of malignant tumors, cancer biomarkers and medical bioinformatics. He has published more than 20 SCI articles in these fields.
