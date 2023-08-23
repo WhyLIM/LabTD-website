@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BMed in Clinical Medicine?, Grad Student
+role: MSc in Clinical Medicine Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -22,21 +22,21 @@ organizations:
     url: 'https://www.scut.edu.cn/new/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
+bio: I'm passionate about the crossroads of ophthalmology and bioinformatics. My focus is on discovering and confirming biomarkers, and using databases to advance diagnosing and treating eye conditions. I aim to merge clinical insights with research skills for impactful contributions.
 
 interests:
-  - xxxxx
-  - xxxxx
-  - xxxxx
+  - Basic and Clinical Translational Research in Ophthalmology
+  - Eye Biomarkers
+  - Databases
 
 education:
   courses:
-    - course: MCM in Clinical Medicine Candidate?
+    - course: MSc in Clinical Medicine Candidate
       institution: South China University of Technology
       year: Expected 2025
-    - course: BMed in Clinical Medicine?
-      institution: '?'
-      year: 2022
+    - course: BSs in Clinical Medicine
+      institution: Anhui Medical University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yxwang023@163.com'
+    link: mailto:jinyeanqi@163.com
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Yeanqi-Jin
@@ -64,4 +64,6 @@ user_groups:
   - Students
 ---
 
-xxx
+Ms. Ye'Anqi Jin (金叶安琪) completed her Bachelor of Medicine degree at [Anhui Medical University](https://www.ahmu.edu.cn/). She is currently pursuing a Master of Clinical Medicine at [South China University of Technology](https://www.scut.edu.cn/new/) under the mentorship of Dr. **Qianli Meng**, Department of Ophthalmology, [Guangdong Provincial People's Hospital](https://www.gdghospital.org.cn/en/).
+
+Ms. Jin's research interests lie at the intersection of ophthalmology and bioinformatics. She aims to chart a professional path focused on identifying and validating biomarkers as well as leveraging database resources to advance the diagnosis and treatment of ocular diseases. Her goal is to make meaningful contributions by integrating her clinical knowledge and scientific research skills.

@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:mli.bio@outlook.com'
+    link: mailto:mli.bio@outlook.com
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Min-Li-331

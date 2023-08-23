@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yxwang023@163.com'
+    link: mailto:yxwang023@163.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E6%80%A1%E6%AC%A3-%E7%8E%8B-01b8681b4/

@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'pengqiliang1912@163.com'
+    link: mailto:pengqiliang1912@163.com
   - icon: researchgate
     icon_pack: fab
     link: 'https://www.researchgate.net/profile/Qiliang-Peng'

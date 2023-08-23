@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc in Biomedical Engineering, Grad Student
+role: MSc in Biomedical Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mckonglingcong@mail.scut.edu.cn'
+    link: mailto:mckonglingcong@mail.scut.edu.cn
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Lingcong-Kong-2

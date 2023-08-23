@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'zhangxueli@gdph.org.cn'
+    link: mailto:zhangxueli@gdph.org.cn
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Xueli-Zhang
