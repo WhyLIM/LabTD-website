@@ -8,13 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        {{< figure src="icon.jpg" width="100px" >}} Lab TD
+        <div style="float: left;">{{< figure src="icon.jpg" width="70px" >}}</div>
+        <div style="float: left;">&nbsp;&nbsp;Lab TD</div><br>
     #   image:
     #     filename: icon.png
       text: |
         <br>
 
-        Our research endeavors revolve around delving into the underlying biological mechanisms behind comorbidity, while simultaneously harnessing the power of bioinformatics to prognosticate potential biomarkers for intricate diseases.
+        <p>Our research endeavors revolve around delving into the underlying biological mechanisms behind comorbidity, while simultaneously harnessing the power of bioinformatics to prognosticate potential biomarkers for intricate diseases.</p>
     design:
       background:
         image:
