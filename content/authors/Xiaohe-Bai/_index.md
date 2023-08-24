@@ -18,21 +18,20 @@ role: Undergraduate Student in Mathematics
 
 # Organizations/Affiliations
 organizations:
-  - name: University of California San Diego
+  - name: University of California, San Diego
     url: 'https://ucsd.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
 
 interests:
-  - xxxxx
-  - xxxxx
-  - xxxxx
+  - Number Theory
+  - Machine Learning
 
 education:
   courses:
-    - course: BSc in Mathematics Candidate
-      institution: University of California San Diego
+    - course: BSc in Mathematics, On-going
+      institution: University of California, San Diego
       year: Expected 2025
 
 # Social/Academic Networking
@@ -58,4 +57,4 @@ user_groups:
   - Students
 ---
 
-xxx
+Xiaohe Bai (白晓禾) is currently pursuing her Bachelor's degree in Mathematics at [*University of California, San Diego*](https://ucsd.edu/), and she is under the mentorship of Dr. [**Lianting Hu**](https://www.researchgate.net/profile/Lianting-Hu) from the [*Guangdong Provincial People’s Hospital*](https://www.gdghospital.org.cn/en/). Currently, Xiaohe's research mainly focus on the combination of Artificial Intelligence and Mathematics.

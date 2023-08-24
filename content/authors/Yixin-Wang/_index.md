@@ -64,6 +64,6 @@ user_groups:
   - Students
 ---
 
-Yixin Wang (王怡欣) earned her bachelor's degree from [Soochow University](http://eng.suda.edu.cn/), guided and mentored by Dr. [**Wenying Yan**](https://www.researchgate.net/profile/Wenying-Yan). She is now advancing her studies with a master's program in bioinformatics at the [Chinese University of Hong Kong (Shenzhen)](https://www.cuhk.edu.cn/zh-hans).
+Yixin Wang (王怡欣) earned her bachelor's degree from [*Soochow University*](http://eng.suda.edu.cn/), guided and mentored by Dr. [**Wenying Yan**](https://www.researchgate.net/profile/Wenying-Yan). She is now advancing her studies with a master's program in bioinformatics at the [*Chinese University of Hong Kong (Shenzhen)*](https://www.cuhk.edu.cn/zh-hans).
 
 Currently, Yixin is charting her professional journey. Her research passions encompass both health informatics and bioinformatics, with a burgeoning interest in drug discovery.

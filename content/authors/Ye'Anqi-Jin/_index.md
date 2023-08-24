@@ -64,6 +64,6 @@ user_groups:
   - Students
 ---
 
-Ms. Ye'Anqi Jin (金叶安琪) completed her Bachelor of Medicine degree at [Anhui Medical University](https://www.ahmu.edu.cn/). She is currently pursuing a Master of Clinical Medicine at [South China University of Technology](https://www.scut.edu.cn/new/) under the mentorship of Dr. **Qianli Meng**, Department of Ophthalmology, [Guangdong Provincial People's Hospital](https://www.gdghospital.org.cn/en/).
+Ms. Ye'Anqi Jin (金叶安琪) completed her Bachelor of Medicine degree at [*Anhui Medical University*](https://www.ahmu.edu.cn/). She is currently pursuing a Master of Clinical Medicine at [*South China University of Technology*](https://www.scut.edu.cn/new/) under the mentorship of Dr. **Qianli Meng**, Department of Ophthalmology, [*Guangdong Provincial People's Hospital*](https://www.gdghospital.org.cn/en/).
 
 Ms. Jin's research interests lie at the intersection of ophthalmology and bioinformatics. She aims to chart a professional path focused on identifying and validating biomarkers as well as leveraging database resources to advance the diagnosis and treatment of ocular diseases. Her goal is to make meaningful contributions by integrating her clinical knowledge and scientific research skills.

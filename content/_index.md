@@ -8,15 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        🧫 Lab TD
+        {{< figure src="icon.jpg" width="100px" >}} Lab TD
     #   image:
-    #     filename: science.png
+    #     filename: icon.png
       text: |
         <br>
 
-        **Lab TD** primarily focuses on bioinformatics research in the field of biomedicine. 
-        
-        Including multi-omic data analysis, exploration of image-gene joint biomarkers, and the development of related databases and software.
+        Our research endeavors revolve around delving into the underlying biological mechanisms behind comorbidity, while simultaneously harnessing the power of bioinformatics to prognosticate potential biomarkers for intricate diseases.
     design:
       background:
         image:
@@ -219,6 +217,15 @@ sections:
       show_role: true
       # Show user's organizations/affiliations?
       show_organizations: true
+
+  - block: markdown
+    content:
+      title: Life Snapshots
+      subtitle: 'Behind the Science: Events and Coffee Breaks ☕'
+      text: |-
+        {{< gallery album="break" >}}
+    design:
+      columns: '1'
 
 #   - block: markdown
 #     content:

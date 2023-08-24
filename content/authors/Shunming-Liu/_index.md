@@ -25,9 +25,9 @@ organizations:
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
 
 interests:
-  - xxxxx
-  - xxxxx
-  - xxxxx
+  - Data Visualization
+  - Database
+  - Digital Wearables
 
 education:
   courses:
