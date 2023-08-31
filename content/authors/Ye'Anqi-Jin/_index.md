@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ye'Anqi Jin
+title: Ye'Anqi Jin (on right)
 
 # Full name (for SEO)
 first_name: Ye'Anqi

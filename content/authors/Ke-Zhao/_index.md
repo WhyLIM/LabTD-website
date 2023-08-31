@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in ?
+    - course: PhD in xxx
       institution: xx University
       year: 20xx
     - course: MSc in ?
@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:zhangxueli@gdph.org.cn
+    link: mailto:zhaoke@gdph.org.cn
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Ke-Zhao-22
