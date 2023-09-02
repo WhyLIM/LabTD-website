@@ -79,6 +79,7 @@ Xueli Zhang's primary research focus lies in examining the comorbidity relations
 He boasts an impressive repertoire of more than 30 SCI publications. Of these, over 10 were featured in prestigious journals, such as Intensive Care Medicine, BMC Medicine, and Bioinformatics, where Dr. Zhang has been recognized as either the first or the corresponding author. His significant contributions to the scientific community have not gone unnoticed, with his work being cited in high-caliber journals, including Nature Reviews Clinical Oncology and Nature Reviews Gastroenterology & Hepatology.
 
 **Primary Academic Positions:**
+
 1. Committee Member of the "Translational Informatics & Data Sharing Security" special committee under the organizing Chinese Bioinformatics Society.
 2. Young Editor for the SCI journal *iMeta*.
 3. Reviewer for journals including *iMeta, Database, iScience, Heliyon, NRR, Medicine Advances, BMC series*, and more.
