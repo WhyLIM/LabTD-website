@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        <div style="float: left;">{{< figure src="icon.jpg" width="70px" >}}</div>
+        <div style="float: left;">{{< figure src="icon1.png" width="70px" >}}</div>
         <div style="float: left;">&nbsp;&nbsp;Lab TD</div><br>
     #   image:
     #     filename: icon.png
