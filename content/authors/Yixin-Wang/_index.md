@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BSc in Bioinformatics, Grad Student
+role: MSc in Bioinformatics Candidate
 
 # Organizations/Affiliations
 organizations:

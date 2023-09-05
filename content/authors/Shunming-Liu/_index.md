@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MF? in ?, Researcher
+role: MSc in Technical Economy and Management
 
 # Organizations/Affiliations
 organizations:
@@ -22,21 +22,18 @@ organizations:
     url: 'https://www.gdghospital.org.cn/en/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
+bio: I'm drawn to the study of wearable devices and possess expertise in machine learning and big data analysis. My goal is to seamlessly blend technology and medicine to develop enhanced and precise medical solutions.
 
 interests:
-  - Data Visualization
-  - Database
-  - Digital Wearables
+  - Wearable Devices
+  - Big Data Analysis
+  - Machine Learning
 
 education:
   courses:
-    - course: MF? in ?
+    - course: MSc in Technical Economy and Management
       institution: South China University of Technology
-      year: '?'
-    - course: BSc? in ?
-      institution: xxx University
-      year: '?'
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -61,4 +58,6 @@ user_groups:
   - Researchers
 ---
 
-xxx
+Shunming Liu（刘舜铭）earned his Master's degree in Management Science and Engineering from [*South China University of Technology*](https://www.scut.edu.cn/new/). He is a committed researcher specializing in the field of ophthalmology.
+
+His research interests including studies on wearable devices, as well as expertise in machine learning and big data analysis. Through continuous exploration of these domains, He aim to merge technology with medicine, with the hope of creating more efficient and precise medical solutions.
