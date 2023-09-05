@@ -25,18 +25,18 @@ organizations:
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
 
 interests:
-  - xxxxx
-  - xxxxx
-  - xxxxx
+  - Medical Image Recognition and Feature Extraction
+  - Multimodal Data Processing
+  - Database Construction
 
 education:
   courses:
-    - course: Medical Doctor
+    - course: Attending Physician
       institution: The Third Affiliated Hospital of Xi'an Medical University
       year: 2004-current
-    - course: BMed in Clinical Medicine?
+    - course: BSs in Clinical Medicine
       institution: Southeast University
-      year: 2004
+      year: 1999-2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ''
+    link: mailto:44286667@qq.com 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,4 +61,6 @@ user_groups:
   - Researchers
 ---
 
-xxx
+Rui Feng (冯蕊) is an attending physician in the Ophthalmology Department at [the Third Affiliated Hospital of Xi'an Medical University](http://www.xy3fy.com/). She is also a featured speaker on public health tours for the Shaanxi Health Association and an expert in myopia prevention and visual health for children and adolescents in the Beilin District of Shaanxi Province.
+
+Currently, she is leading several provincial and hospital-level projects, and participating in projects at Xi'an University of Electronic Science and Technology and Xi'an University of Technology. Under her leadership, their department has been designated as a "Dry Eye Grassroots Promotion Demonstration Center." She have published over a hundred popular science articles.
