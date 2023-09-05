@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Medical Doctor
+role: Attending Physician
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,7 @@ organizations:
     url: 'http://www.xy3fy.com/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
+bio: I'm particularly interested in medical image recognition and feature extraction. I'm also drawn to the intricacies of multimodal data processing and the essential task of database construction.
 
 interests:
   - Medical Image Recognition and Feature Extraction
