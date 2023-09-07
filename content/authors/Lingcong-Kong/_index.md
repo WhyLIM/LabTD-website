@@ -25,21 +25,17 @@ organizations:
 bio: My research interest is to explore the comorbidity relationship of diseases based on complex networks and to find new combination markers, and has constructed multiple biomarker databases and prediction models.
 
 interests:
-  - xxxxx
-  - xxxxx
-  - xxxxx
+  - Medical Image Analysis
+  - Deep Learning
 
 education:
   courses:
-    - course: PhD in ? Candidate
-      institution: xxx University
-      year: Expected 2027
-    - course: MSc in Bioinformatics Candidate
+    - course: MSc in Biomedical Engineering
       institution: South China University of Technology
       year: 2023
-    - course: BSc in ?
-      institution: xxx University
-      year: '?'
+    - course: BEng in Biomedical Engineering
+      institution: Northeastern University (China)
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:mckonglingcong@mail.scut.edu.cn
+    link: mailto:lckong712@gmail.com
   - icon: researchgate
     icon_pack: fab
     link: https://www.researchgate.net/profile/Lingcong-Kong-2
@@ -67,4 +63,6 @@ user_groups:
   - Researchers
 ---
 
-xxx
+Lingcong Kong (孔令聪) is now a Research Assistant in the Department of Medical Big-data Center, [*Guangdong Provincial People's Hospital (GDPH)*](https://www.gdghospital.org.cn/en/).
+
+Mr Kong received his B.Eng. degree in Biomedical Engineering from the [*Northeastern University (China)*](http://www.neu.edu.cn/) and his M.Sc. degree in Biomedical Engineering from the [*South China University of Technology*](https://www.scut.edu.cn/new/). 

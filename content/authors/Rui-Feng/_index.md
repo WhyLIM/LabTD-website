@@ -61,6 +61,6 @@ user_groups:
   - Researchers
 ---
 
-Rui Feng (冯蕊) is an attending physician in the Ophthalmology Department at [the Third Affiliated Hospital of Xi'an Medical University](http://www.xy3fy.com/). She is also a featured speaker on public health tours for the Shaanxi Health Association and an expert in myopia prevention and visual health for children and adolescents in the Beilin District of Shaanxi Province.
+Rui Feng (冯蕊) is an attending physician in the Ophthalmology Department at [*The Third Affiliated Hospital of Xi'an Medical University*](http://www.xy3fy.com/). She is also a featured speaker on public health tours for the Shaanxi Health Association and an expert in myopia prevention and visual health for children and adolescents in the Beilin District of Shaanxi Province.
 
 Currently, she is leading several provincial and hospital-level projects, and participating in projects at Xi'an University of Electronic Science and Technology and Xi'an University of Technology. Under her leadership, their department has been designated as a "Dry Eye Grassroots Promotion Demonstration Center." She have published over a hundred popular science articles.
